@@ -1,0 +1,7 @@
+D:\SHIVAM\Kart\Shippink_Kart\Shippink_Kart\bin\Shippink_Kart.dll
+D:\SHIVAM\Kart\Shippink_Kart\Shippink_Kart\bin\Shippink_Kart.pdb
+D:\SHIVAM\Kart\Shippink_Kart\Shippink_Kart\obj\Debug\Shippink_Kart.dll
+D:\SHIVAM\Kart\Shippink_Kart\Shippink_Kart\obj\Debug\Shippink_Kart.pdb
+D:\SHIVAM\Kart\Shippink_Kart\Shippink_Kart\obj\Debug\Shippink_Kart.csprojResolveAssemblyReference.cache
+D:\SHIVAM\Kart\Shippink_Kart\Shippink_Kart\bin\itextsharp.dll
+D:\SHIVAM\Kart\Shippink_Kart\Shippink_Kart\bin\itextsharp.xml
